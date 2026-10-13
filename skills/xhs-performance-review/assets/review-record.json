@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "content_id": "",
+  "goal": "",
+  "state": "observing",
+  "published_version": null,
+  "published_at": null,
+  "observed_at": null,
+  "metrics": [],
+  "comments_source": null,
+  "sampling_note": null,
+  "facts": [],
+  "hypotheses": [],
+  "gaps": [],
+  "next_action": "",
+  "preference_candidates": []
+}

@@ -1,0 +1,49 @@
+{
+  "name": "xiaohongshu-content-workflow",
+  "version": "0.1.0",
+  "project": "Xiaohongshu / RED content operations",
+  "language": "zh-CN",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "xhs-content-ops",
+      "description": "Coordinate a Xiaohongshu / RED content project from account context through planning, production, review and learning. Use for 小红书项目总控、完整运营工作流、恢复内容任务、周工作协调；单独改稿或查数据直接使用对应模块。",
+      "path": "skills/xhs-content-ops/SKILL.md"
+    },
+    {
+      "name": "xhs-source-research",
+      "description": "Research supplied or accessible Xiaohongshu / RED sources, competitor examples and comments. Use for 小红书竞品拆解、官方资料核查、评论洞察、选题补证与样本迁移；不把采样当全网结论。",
+      "path": "skills/xhs-source-research/SKILL.md"
+    },
+    {
+      "name": "xhs-topic-planning",
+      "description": "Plan Xiaohongshu / RED topics, editorial briefs and feasible weekly schedules from account goals, materials and feedback. Use for 小红书选题、脑暴、周排期、图文框架、判断要不要继续一个题。",
+      "path": "skills/xhs-topic-planning/SKILL.md"
+    },
+    {
+      "name": "xhs-post-writing",
+      "description": "Write and revise Xiaohongshu / RED titles, covers, carousel cards, captions and publishing copy while preserving approved structure and author voice. Use for 小红书图文成稿、正文打磨、逐页修改、发布准备、精确回滚。",
+      "path": "skills/xhs-post-writing/SKILL.md"
+    },
+    {
+      "name": "xhs-video-production",
+      "description": "Turn an approved Xiaohongshu / RED short-video idea into a producible storyboard, timed script and media handoff. Use for 小红书短视频脚本、分镜、镜头提示词、字幕和制作交接；不代表已经生成或发布视频。",
+      "path": "skills/xhs-video-production/SKILL.md"
+    },
+    {
+      "name": "xhs-performance-review",
+      "description": "Review Xiaohongshu / RED posts and weekly content operations using actual published versions, timestamped metrics and comments. Use for 单篇复盘、周复盘、数据诊断、评论反馈、内容归档与下一轮实验。",
+      "path": "skills/xhs-performance-review/SKILL.md"
+    },
+    {
+      "name": "xhs-preference-learning",
+      "description": "Learn scoped personal preferences from Xiaohongshu / RED editing feedback and approved work. Use for 记录我的写作偏好、从终稿提炼个人风格、纠偏记忆、清理过多规则；不预置作者个性，不擅自写全局记忆。",
+      "path": "skills/xhs-preference-learning/SKILL.md"
+    }
+  ],
+  "discovery_note": "Metadata for this repository; no guaranteed indexing or recommendation.",
+  "documentation_languages": [
+    "en",
+    "zh-CN"
+  ]
+}

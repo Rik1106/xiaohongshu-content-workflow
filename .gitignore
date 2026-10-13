@@ -1,0 +1,9 @@
+.xhs-work/
+.agents/
+.claude/
+.cursor/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.local.*

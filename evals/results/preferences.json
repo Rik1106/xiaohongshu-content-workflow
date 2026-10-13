@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "tool-review-terminology-001",
+      "statement": "工具测评保留必要术语，术语首次出现时附一句解释。",
+      "scope": {
+        "account": "本次用户指定的工具测评账号",
+        "content_type": "工具测评",
+        "task_scope": "该账号后续工具测评的写作与改稿"
+      },
+      "trigger": "为该账号撰写或修改工具测评，且涉及必要术语时。",
+      "exceptions": [
+        "不自动应用于个人随笔或其他非测评内容。",
+        "不应用于其他账号。",
+        "当前用户明确提出本篇例外时，按本篇要求执行，保留长期条目。"
+      ],
+      "evidence": {
+        "source": "T4 用户直接请求",
+        "date": "2026-10-13",
+        "statement": "我的账号做工具测评：以后测评保留必要术语，但首次出现给一句解释。",
+        "authorization": "用户明确要求保存本次长期偏好到测试目录 preferences.json。"
+      },
+      "status": "active",
+      "updated_at": "2026-10-13T15:30:53+08:00"
+    }
+  ]
+}

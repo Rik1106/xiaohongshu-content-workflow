@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "account_id": "",
+  "reader": "",
+  "recurring_reader_problem": "",
+  "author_position": "",
+  "content_goals": [],
+  "available_materials": [],
+  "production_constraints": [],
+  "preferred_formats": [],
+  "runtime_dir": ".xhs-work",
+  "preference_file": ".xhs-work/preferences.json",
+  "notes": "按需填写；空字段代表未知，不是必须逐项提问。"
+}

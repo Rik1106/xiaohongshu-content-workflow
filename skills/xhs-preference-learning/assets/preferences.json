@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "records": [],
+  "record_fields": {
+    "id": "唯一记录标识",
+    "statement": "正向目标",
+    "scope": "账号/体裁/任务边界",
+    "trigger": "何时适用",
+    "exceptions": "何时不适用",
+    "evidence": "原请求或终稿引用及必要理由",
+    "status": "case_only | candidate | active | superseded | retired",
+    "updated_at": "实际记录时间",
+    "supersedes": "可选旧记录 id"
+  }
+}
